@@ -11,7 +11,7 @@
         <div class="col-sm-12 col-xs-12">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Halaman Administrator Sistem Informasi Peprustakaan SMP N 1 KARANGPANDAN</h3>
+                    <h3 class="panel-title">Halaman Administrator Sistem Informasi Perustakaan SMP N 1 KARANGPANDAN</h3>
                 </div>
                 <div class="panel-body">
                     <table id="deskripsi" class="table table-bordered table-striped table-hover">
